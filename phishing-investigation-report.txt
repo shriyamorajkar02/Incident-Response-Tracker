@@ -6,4 +6,5 @@ Observations:
 - Fake login page observed
 Actions Taken:
 - Email blocked
-- Domain blacklisted
+- Domain blacklisted 
+task completed
