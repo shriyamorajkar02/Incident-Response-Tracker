@@ -1,0 +1,9 @@
+Incident ID: PH-2026-001
+Attack Type:
+Phishing
+Observations:
+- Suspicious email detected
+- Fake login page observed
+Actions Taken:
+- Email blocked
+- Domain blacklisted
